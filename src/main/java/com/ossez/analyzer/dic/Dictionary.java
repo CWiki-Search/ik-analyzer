@@ -396,7 +396,7 @@ public class Dictionary {
 	
 	/**
 	 * 加载扩展的词条
-	 * @param extWords Collection<String>词条列表
+	 * @param extWords Collection 词条列表
 	 */
 	public static void loadExtendWords(Collection<String> extWords){
 		if(extWords != null){
@@ -411,7 +411,7 @@ public class Dictionary {
 	
 	/**
 	 * 加载扩展的停止词条
-	 * @param extStopWords Collection<String>词条列表
+	 * @param extStopWords Collection 词条列表
 	 */
 	public static void loadExtendStopWords(Collection<String> extStopWords){
 		if(extStopWords != null){
@@ -426,7 +426,7 @@ public class Dictionary {
 	
 	/**
 	 * 检索匹配主词典
-	 * @param charArray
+	 * @param charArray char Array
 	 * @return Hit 匹配结果描述
 	 */
 	public static Hit matchInMainDict(char[] charArray){
@@ -435,9 +435,9 @@ public class Dictionary {
 	
 	/**
 	 * 检索匹配主词典
-	 * @param charArray
-	 * @param begin
-	 * @param length
+	 * @param charArray Char Array
+	 * @param begin Int
+	 * @param length Int
 	 * @return Hit 匹配结果描述
 	 */
 	public static Hit matchInMainDict(char[] charArray , int begin, int length){
@@ -447,9 +447,9 @@ public class Dictionary {
 	/**
 	 * 检索匹配主词典,
 	 * 从已匹配的Hit中直接取出DictSegment，继续向下匹配
-	 * @param charArray
-	 * @param currentIndex
-	 * @param matchedHit
+	 * @param charArray charArray
+	 * @param currentIndex currentIndex
+	 * @param matchedHit matchedHit
 	 * @return Hit
 	 */
 	public static Hit matchWithHit(char[] charArray , int currentIndex , Hit matchedHit){

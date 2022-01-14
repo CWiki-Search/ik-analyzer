@@ -37,7 +37,7 @@ public final class IKSegmentation{
 	/**
 	 * IK主分词器构造函数
 	 * 默认最细粒度切分
-	 * @param input
+	 * @param input Reader
 	 */
 	public IKSegmentation(Reader input){
 		this(input , false);
@@ -45,7 +45,7 @@ public final class IKSegmentation{
     
 	/**
 	 * IK主分词器构造函数
-	 * @param input
+	 * @param input Reader
 	 * @param isMaxWordLength 当为true时，分词器进行最大词长切分
 	 */
 	public IKSegmentation(Reader input , boolean isMaxWordLength){
@@ -58,7 +58,7 @@ public final class IKSegmentation{
 	/**
 	 * 获取下一个语义单元
 	 * @return 没有更多的词元，则返回null
-	 * @throws IOException
+	 * @throws IOException IOException
 	 */
 	public synchronized Lexeme next() throws IOException {
 		if(context.getResultSize() == 0){
@@ -165,7 +165,7 @@ public final class IKSegmentation{
 
     /**
      * 重置分词器到初始状态
-     * @param input
+     * @param input Reader
      */
 	public synchronized void reset(Reader input) {
 		this.input = input;

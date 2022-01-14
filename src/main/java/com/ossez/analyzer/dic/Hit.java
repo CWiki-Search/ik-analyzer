@@ -31,10 +31,10 @@ public class Hit {
 	 * 词段的结束位置
 	 */
 	private int end;
-	
-	
+
 	/**
 	 * 判断是否完全匹配
+	 * @return
 	 */
 	public boolean isMatch() {
 		return (this.hitState & MATCH) > 0;

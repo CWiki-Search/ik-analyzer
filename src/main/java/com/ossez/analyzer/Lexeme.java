@@ -115,7 +115,7 @@ public final class Lexeme implements Comparable<Lexeme>{
 	
 	/**
 	 * 判断词元是否彼此包含
-	 * @param other
+	 * @param other Lexeme
 	 * @return boolean true 完全包含 ， false 可能不相交 或者 相交但不包含
 	 */
 	public boolean isOverlap(Lexeme other){

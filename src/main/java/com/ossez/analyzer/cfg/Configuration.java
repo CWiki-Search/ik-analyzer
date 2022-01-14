@@ -57,7 +57,7 @@ public class Configuration {
 
     /**
      * 获取扩展字典配置路径
-     * @return List<String> 相对类加载器的路径
+     * @return List 相对类加载器的路径
      */
     public static List<String> getExtDictionarys() {
         List<String> extDictFiles = new ArrayList<String>(2);
@@ -79,7 +79,7 @@ public class Configuration {
 
     /**
      * 获取扩展停止词典配置路径
-     * @return List<String> 相对类加载器的路径
+     * @return List 相对类加载器的路径
      */
     public static List<String> getExtStopWordDictionarys() {
         List<String> extStopWordDictFiles = new ArrayList<String>(2);
@@ -103,7 +103,7 @@ public class Configuration {
     /**
      * 初始化子分词器实现
      * （目前暂时不考虑配置扩展）
-     * @return List<ISegmenter>
+     * @return List
      */
     public static List<ISegmenter> loadSegmenter() {
         //初始化词典单例

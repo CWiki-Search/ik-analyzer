@@ -23,12 +23,12 @@ public class Dictionary {
 	/*
 	 * 分词器默认字典路径 
 	 */
-	public static final String PATH_DIC_MAIN = "/org/wltea/analyzer/dic/main.dic";
-	public static final String PATH_DIC_SURNAME = "/org/wltea/analyzer/dic/surname.dic";
-	public static final String PATH_DIC_QUANTIFIER = "/org/wltea/analyzer/dic/quantifier.dic";
-	public static final String PATH_DIC_SUFFIX = "/org/wltea/analyzer/dic/suffix.dic";
-	public static final String PATH_DIC_PREP = "/org/wltea/analyzer/dic/preposition.dic";
-	public static final String PATH_DIC_STOP = "/org/wltea/analyzer/dic/stopword.dic";
+	public static final String PATH_DIC_MAIN = "/com/ossez/analyzer/dic/main.dic";
+	public static final String PATH_DIC_SURNAME = "/com/ossez/analyzer/dic/surname.dic";
+	public static final String PATH_DIC_QUANTIFIER = "/com/ossez/analyzer/dic/quantifier.dic";
+	public static final String PATH_DIC_SUFFIX = "/com/ossez/analyzer/dic/suffix.dic";
+	public static final String PATH_DIC_PREP = "/com/ossez/analyzer/dic/preposition.dic";
+	public static final String PATH_DIC_STOP = "/com/ossez/analyzer/dic/stopword.dic";
 	
 	
 	/*

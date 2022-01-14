@@ -1,0 +1,768 @@
+Index: .idea/libraries/Maven__woodstox_wstx_asl_3_2_7.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__woodstox_wstx_asl_3_2_7.xml b/.idea/libraries/Maven__woodstox_wstx_asl_3_2_7.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__woodstox_wstx_asl_3_2_7.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: woodstox:wstx-asl:3.2.7">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__junit_junit_3_8_2.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__junit_junit_3_8_2.xml b/.idea/libraries/Maven__junit_junit_3_8_2.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__junit_junit_3_8_2.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: junit:junit:3.8.2">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.2/junit-3.8.2-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml b/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: commons-httpclient:commons-httpclient:3.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml b/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: commons-logging:commons-logging:1.0.4">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_highlighter_2_9_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_2_9_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_2_9_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_2_9_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-highlighter:2.9.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/2.9.3/lucene-highlighter-2.9.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/2.9.3/lucene-highlighter-2.9.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-highlighter/2.9.3/lucene-highlighter-2.9.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_solr_solr_core_1_4_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_solr_solr_core_1_4_1.xml b/.idea/libraries/Maven__org_apache_solr_solr_core_1_4_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_solr_solr_core_1_4_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.solr:solr-core:1.4.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-core/1.4.1/solr-core-1.4.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-core/1.4.1/solr-core-1.4.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-core/1.4.1/solr-core-1.4.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_solr_solr_solrj_1_4_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_solr_solr_solrj_1_4_1.xml b/.idea/libraries/Maven__org_apache_solr_solr_solrj_1_4_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_solr_solr_solrj_1_4_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.solr:solr-solrj:1.4.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/1.4.1/solr-solrj-1.4.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/1.4.1/solr-solrj-1.4.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/1.4.1/solr-solrj-1.4.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/uiDesigner.xml
+===================================================================
+diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+deleted file mode 100644
+--- a/.idea/uiDesigner.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,124 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="Palette2">
+-    <group name="Swing">
+-      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+-      </item>
+-      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+-        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+-        <initial-values>
+-          <property name="text" value="Button" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="RadioButton" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="CheckBox" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+-        <initial-values>
+-          <property name="text" value="Label" />
+-        </initial-values>
+-      </item>
+-      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+-          <preferred-size width="150" height="-1" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+-          <preferred-size width="150" height="50" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+-          <preferred-size width="200" height="200" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+-      </item>
+-      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+-      </item>
+-      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+-          <preferred-size width="-1" height="20" />
+-        </default-constraints>
+-      </item>
+-      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+-        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+-      </item>
+-      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+-        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+-      </item>
+-    </group>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_analyzers_3_0_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_3_0_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_3_0_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_3_0_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-analyzers:3.0.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers/3.0.3/lucene-analyzers-3.0.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers/3.0.3/lucene-analyzers-3.0.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers/3.0.3/lucene-analyzers-3.0.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_misc_2_9_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_misc_2_9_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_misc_2_9_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_misc_2_9_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-misc:2.9.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-misc/2.9.3/lucene-misc-2.9.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-misc/2.9.3/lucene-misc-2.9.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-misc/2.9.3/lucene-misc-2.9.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_smartcn_3_0_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_smartcn_3_0_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_smartcn_3_0_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_smartcn_3_0_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-smartcn:3.0.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-smartcn/3.0.3/lucene-smartcn-3.0.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-smartcn/3.0.3/lucene-smartcn-3.0.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-smartcn/3.0.3/lucene-smartcn-3.0.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_slf4j_slf4j_api_1_5_5.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_5.xml b/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_5.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_5.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.slf4j:slf4j-api:1.5.5">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.5/slf4j-api-1.5.5.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.5/slf4j-api-1.5.5-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.5.5/slf4j-api-1.5.5-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+deleted file mode 100644
+--- a/.idea/workspace.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,101 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="AutoImportSettings">
+-    <option name="autoReloadType" value="SELECTIVE" />
+-  </component>
+-  <component name="ChangeListManager">
+-    <list default="true" id="2df99668-06a3-422e-97e7-aaeb2325e627" name="Changes" comment="Add file for IJ" />
+-    <option name="SHOW_DIALOG" value="false" />
+-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-    <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="Git.Settings">
+-    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-      <map>
+-        <entry key="$PROJECT_DIR$" value="jdk_11" />
+-      </map>
+-    </option>
+-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-  </component>
+-  <component name="GitSEFilterConfiguration">
+-    <file-type-list>
+-      <filtered-out-file-type name="LOCAL_BRANCH" />
+-      <filtered-out-file-type name="REMOTE_BRANCH" />
+-      <filtered-out-file-type name="TAG" />
+-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+-    </file-type-list>
+-  </component>
+-  <component name="MarkdownSettingsMigration">
+-    <option name="stateVersion" value="1" />
+-  </component>
+-  <component name="MavenImportPreferences">
+-    <option name="generalSettings">
+-      <MavenGeneralSettings>
+-        <option name="useMavenConfig" value="true" />
+-      </MavenGeneralSettings>
+-    </option>
+-  </component>
+-  <component name="ProjectId" id="23h84q4PJeRv6RhyT3jnu4iUJUF" />
+-  <component name="ProjectViewState">
+-    <option name="hideEmptyMiddlePackages" value="true" />
+-    <option name="showLibraryContents" value="true" />
+-  </component>
+-  <component name="PropertiesComponent">
+-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+-    <property name="TF_FMT" value="false" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="node.js.detected.package.eslint" value="true" />
+-    <property name="node.js.detected.package.tslint" value="true" />
+-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+-    <property name="nodejs_package_manager_path" value="npm" />
+-  </component>
+-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="TaskManager">
+-    <task active="true" id="Default" summary="Default task">
+-      <changelist id="2df99668-06a3-422e-97e7-aaeb2325e627" name="Changes" comment="" />
+-      <created>1642174770678</created>
+-      <option name="number" value="Default" />
+-      <option name="presentableId" value="Default" />
+-      <updated>1642174770678</updated>
+-      <workItem from="1642174772103" duration="2756000" />
+-    </task>
+-    <task id="LOCAL-00001" summary="Change build to using JDK 11">
+-      <created>1642177484409</created>
+-      <option name="number" value="00001" />
+-      <option name="presentableId" value="LOCAL-00001" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1642177484409</updated>
+-    </task>
+-    <task id="LOCAL-00002" summary="Add file for IJ">
+-      <created>1642177500406</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1642177500406</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
+-    <servers />
+-  </component>
+-  <component name="TypeScriptGeneratedFilesManager">
+-    <option name="version" value="3" />
+-  </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+-  <component name="VcsManagerConfiguration">
+-    <MESSAGE value="Change build to using JDK 11" />
+-    <MESSAGE value="Add file for IJ" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Add file for IJ" />
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_queries_2_9_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_queries_2_9_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_queries_2_9_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_queries_2_9_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-queries:2.9.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/2.9.3/lucene-queries-2.9.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/2.9.3/lucene-queries-2.9.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/2.9.3/lucene-queries-2.9.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_core_3_0_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_0_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_0_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_0_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-core:3.0.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/3.0.3/lucene-core-3.0.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_io_commons_io_1_4.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_io_commons_io_1_4.xml b/.idea/libraries/Maven__commons_io_commons_io_1_4.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__commons_io_commons_io_1_4.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: commons-io:commons-io:1.4">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.4/commons-io-1.4.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.4/commons-io-1.4-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/1.4/commons-io-1.4-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_solr_solr_commons_csv_1_4_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_solr_solr_commons_csv_1_4_1.xml b/.idea/libraries/Maven__org_apache_solr_solr_commons_csv_1_4_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_solr_solr_commons_csv_1_4_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.solr:solr-commons-csv:1.4.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-commons-csv/1.4.1/solr-commons-csv-1.4.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-commons-csv/1.4.1/solr-commons-csv-1.4.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-commons-csv/1.4.1/solr-commons-csv-1.4.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml b/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: commons-fileupload:commons-fileupload:1.2.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml b/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_7.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.codehaus.woodstox:wstx-asl:3.2.7">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_memory_2_9_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_memory_2_9_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_memory_2_9_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_memory_2_9_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-memory:2.9.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-memory/2.9.3/lucene-memory-2.9.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-memory/2.9.3/lucene-memory-2.9.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-memory/2.9.3/lucene-memory-2.9.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__commons_codec_commons_codec_1_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml b/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: commons-codec:commons-codec:1.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.3/commons-codec-1.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.3/commons-codec-1.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.3/commons-codec-1.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/../ik-analyzer.iml" filepath="$PROJECT_DIR$/../ik-analyzer.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0_1.xml b/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:1.0.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/specs/geronimo-stax-api_1.0_spec/1.0.1/geronimo-stax-api_1.0_spec-1.0.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_snowball_2_9_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_snowball_2_9_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_snowball_2_9_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_snowball_2_9_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-snowball:2.9.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-snowball/2.9.3/lucene-snowball-2.9.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-snowball/2.9.3/lucene-snowball-2.9.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-snowball/2.9.3/lucene-snowball-2.9.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__stax_stax_api_1_0_1.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__stax_stax_api_1_0_1.xml b/.idea/libraries/Maven__stax_stax_api_1_0_1.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__stax_stax_api_1_0_1.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: stax:stax-api:1.0.1">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/libraries/Maven__org_apache_lucene_lucene_spellchecker_2_9_3.xml
+===================================================================
+diff --git a/.idea/libraries/Maven__org_apache_lucene_lucene_spellchecker_2_9_3.xml b/.idea/libraries/Maven__org_apache_lucene_lucene_spellchecker_2_9_3.xml
+deleted file mode 100644
+--- a/.idea/libraries/Maven__org_apache_lucene_lucene_spellchecker_2_9_3.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ /dev/null	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
+@@ -1,13 +0,0 @@
+-<component name="libraryTable">
+-  <library name="Maven: org.apache.lucene:lucene-spellchecker:2.9.3">
+-    <CLASSES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-spellchecker/2.9.3/lucene-spellchecker-2.9.3.jar!/" />
+-    </CLASSES>
+-    <JAVADOC>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-spellchecker/2.9.3/lucene-spellchecker-2.9.3-javadoc.jar!/" />
+-    </JAVADOC>
+-    <SOURCES>
+-      <root url="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-spellchecker/2.9.3/lucene-spellchecker-2.9.3-sources.jar!/" />
+-    </SOURCES>
+-  </library>
+-</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" default=\"true\" />\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 5ec6d1f22499ec01d4dba5daaf17ad6965dedd40)
++++ b/.idea/misc.xml	(date 1642178141666)
+@@ -1,4 +1,15 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" default="true" />
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
++  <component name="ThriftCompiler">
++    <compilers />
++  </component>
+ </project>
+\ No newline at end of file
